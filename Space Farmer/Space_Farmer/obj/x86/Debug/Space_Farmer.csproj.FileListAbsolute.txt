@@ -1,0 +1,497 @@
+c:\users\rgoul\documents\visual studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Textures\asteroidTexture.xnb
+c:\users\rgoul\documents\visual studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Space_Farmer.exe
+c:\users\rgoul\documents\visual studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Space_Farmer.pdb
+c:\users\rgoul\documents\visual studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Microsoft.Xna.Framework.dll
+c:\users\rgoul\documents\visual studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+c:\users\rgoul\documents\visual studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+c:\users\rgoul\documents\visual studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+c:\users\rgoul\documents\visual studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+c:\users\rgoul\documents\visual studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Microsoft.Xna.Framework.xml
+c:\users\rgoul\documents\visual studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+c:\users\rgoul\documents\visual studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+c:\users\rgoul\documents\visual studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+c:\users\rgoul\documents\visual studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+c:\users\rgoul\documents\visual studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\obj\x86\Debug\Space_Farmer.csprojResolveAssemblyReference.cache
+c:\users\rgoul\documents\visual studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\rgoul\documents\visual studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\obj\x86\Debug\Space_Farmer.exe
+c:\users\rgoul\documents\visual studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\obj\x86\Debug\Space_Farmer.pdb
+c:\users\rgoul\documents\visual studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Textures\galaxyBackground.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\debugFont.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Textures\galaxyStars.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Textures\laserBeam.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Sounds\Laser\laserShot0.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Sounds\Laser\laserShot1.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Sounds\thrusterSound.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Player\playerShip1.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Player\playerShip2.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Player\playerShip3.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Player\playerShip0.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Textures\galaxyDebris.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Space_Farmer.exe.manifest
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Space_Farmer.application
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\obj\x86\Debug\Space_Farmer.exe.manifest
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\obj\x86\Debug\Space_Farmer.application
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\displayFont.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Building Textures\basicMine.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Tile Textures\gridSelectionOverlay.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\goldCoin.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\buildButton.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\exitButton.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\nextTurnButton.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Minimap Textures\minimapBlip.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\buildingButton.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\buildingButtonSelected.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\buildingButtonFont.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Tile Textures\healthRectangle.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Sounds\Enemy\enemyExplosion.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Building Textures\basicTurret.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Building Textures\zapperBuilding.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Building Textures\advancedMine.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Building Textures\advancedTurret.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Building Textures\factoryBuilding.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0001.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0002.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0003.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0004.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0005.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0006.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0007.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0008.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0009.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0010.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0011.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0012.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0013.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0014.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0015.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0016.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0017.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0018.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0019.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0020.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0021.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0001.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0002.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0003.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0004.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0005.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0006.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0007.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0008.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0009.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0010.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0011.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0012.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0013.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0014.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0015.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0016.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0017.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0018.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0019.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0020.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0021.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0022.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0023.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0024.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0025.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0026.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0027.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0028.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0029.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0030.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0031.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0032.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0033.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0034.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0035.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0036.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0037.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0038.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0039.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0040.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0041.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0042.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0043.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0044.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0045.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0046.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0047.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0048.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0049.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0050.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0051.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0052.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0053.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0054.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0055.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0056.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0057.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0058.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0059.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0060.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0061.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0062.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0063.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0064.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0065.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0066.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0067.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0068.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0069.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0070.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0071.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0072.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0073.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0074.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0075.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0076.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0077.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0078.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0079.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0080.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0081.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0082.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0083.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0084.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0085.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0086.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0087.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0088.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0089.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\obj\x86\Debug\Space_Farmer.csprojResolveAssemblyReference.cache
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\obj\x86\Debug\Space_Farmer.exe
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\obj\x86\Debug\Space_Farmer.pdb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Textures\galaxyBackground.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Textures\asteroidTexture.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Textures\galaxyStars.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Textures\laserBeam.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Player\playerShip1.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Player\playerShip2.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Player\playerShip3.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Player\playerShip0.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Textures\galaxyDebris.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\goldCoin.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Building Textures\advancedMine.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Tile Textures\gridSelectionOverlay.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\buildButton.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\exitButton.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\nextTurnButton.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Minimap Textures\minimapBlip.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\buildingButton.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\buildingButtonSelected.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Tile Textures\healthRectangle.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Building Textures\advancedTurret.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Building Textures\zapperBuilding.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Building Textures\basicMine.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Building Textures\factoryBuilding.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Building Textures\basicTurret.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0001.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0002.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0003.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0004.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0005.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0006.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0007.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0008.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0009.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0010.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0011.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0012.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0013.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0014.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0015.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0016.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0017.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0018.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0019.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0020.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0021.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0001.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0002.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0003.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0004.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0005.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0006.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0007.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0008.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0009.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0010.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0011.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0012.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0013.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0014.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0015.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0016.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0017.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0018.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0019.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0020.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0021.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0022.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0023.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0024.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0025.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0026.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0027.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0028.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0029.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0030.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0031.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0032.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0033.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0034.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0035.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0036.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0037.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0038.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0039.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0040.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0041.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0042.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0043.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0044.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0045.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0046.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0047.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0048.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0049.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0050.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0051.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0052.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0053.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0054.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0055.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0056.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0057.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0058.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0059.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0060.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0061.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0062.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0063.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0064.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0065.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0066.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0067.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0068.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0069.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0070.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0071.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0072.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0073.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0074.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0075.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0076.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0077.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0078.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0079.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0080.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0081.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0082.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0083.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0084.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0085.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0086.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0087.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0088.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0089.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\debugFont.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\displayFont.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\buildingButtonFont.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Sounds\Laser\laserShot0.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Sounds\Laser\laserShot1.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Sounds\thrusterSound.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Sounds\Enemy\enemyExplosion.xnb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Space_Farmer.exe.manifest
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Space_Farmer.application
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Space_Farmer.exe
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Space_Farmer.pdb
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\obj\x86\Debug\Space_Farmer.exe.manifest
+C:\Users\Richie\Downloads\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\obj\x86\Debug\Space_Farmer.application
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Textures\galaxyBackground.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Textures\asteroidTexture.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Textures\galaxyStars.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Textures\laserBeam.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Player\playerShip1.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Player\playerShip2.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Player\playerShip3.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Player\playerShip0.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Textures\galaxyDebris.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\goldCoin.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Building Textures\advancedMine.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Tile Textures\gridSelectionOverlay.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\buildButton.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\exitButton.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\nextTurnButton.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Minimap Textures\minimapBlip.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\buildingButton.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\buildingButtonSelected.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Tile Textures\healthRectangle.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Building Textures\advancedTurret.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Building Textures\zapperBuilding.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Building Textures\basicMine.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Building Textures\factoryBuilding.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Building Textures\basicTurret.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0001.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0002.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0003.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0004.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0005.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0006.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0007.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0008.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0009.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0010.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0011.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0012.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0013.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0014.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0015.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0016.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0017.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0018.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0019.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0020.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0021.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0001.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0002.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0003.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0004.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0005.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0006.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0007.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0008.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0009.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0010.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0011.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0012.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0013.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0014.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0015.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0016.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0017.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0018.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0019.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0020.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0021.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0022.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0023.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0024.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0025.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0026.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0027.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0028.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0029.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0030.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0031.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0032.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0033.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0034.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0035.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0036.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0037.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0038.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0039.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0040.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0041.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0042.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0043.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0044.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0045.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0046.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0047.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0048.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0049.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0050.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0051.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0052.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0053.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0054.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0055.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0056.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0057.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0058.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0059.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0060.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0061.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0062.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0063.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0064.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0065.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0066.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0067.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0068.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0069.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0070.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0071.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0072.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0073.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0074.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0075.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0076.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0077.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0078.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0079.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0080.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0081.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0082.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0083.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0084.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0085.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0086.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0087.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0088.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0089.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\debugFont.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\displayFont.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\buildingButtonFont.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Sounds\Laser\laserShot0.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Sounds\Laser\laserShot1.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Sounds\thrusterSound.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Sounds\Enemy\enemyExplosion.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Space_Farmer.exe.manifest
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Space_Farmer.application
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Space_Farmer.exe
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Space_Farmer.pdb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\obj\x86\Debug\Space_Farmer.csprojResolveAssemblyReference.cache
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\obj\x86\Debug\Space_Farmer.exe.manifest
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\obj\x86\Debug\Space_Farmer.application
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\obj\x86\Debug\Space_Farmer.exe
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\obj\x86\Debug\Space_Farmer.pdb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\pauseButton.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\pausedOverlay.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\exitBuildButton.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\loadButton.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\saveButton.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\resumeButton.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Minimap Textures\minimapBuilding.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Enemy Textures\bossEnemy.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Enemy Textures\enemyShip.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Enemy Textures\roundEnemy.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Building Textures\blackHole.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\repairButton.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Textures\repairCursor.xnb
+C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Textures\missileProjectile.xnb

@@ -1,0 +1,155 @@
+Content\General Textures\galaxyBackground.xnb
+Content\General Textures\asteroidTexture.xnb
+Content\General Textures\galaxyStars.xnb
+Content\General Textures\laserBeam.xnb
+Content\Player\playerShip1.xnb
+Content\Player\playerShip2.xnb
+Content\Player\playerShip3.xnb
+Content\Player\playerShip0.xnb
+Content\General Textures\galaxyDebris.xnb
+Content\UI Textures\goldCoin.xnb
+Content\Building Textures\advancedMine.xnb
+Content\Tile Textures\gridSelectionOverlay.xnb
+Content\UI Textures\buildButton.xnb
+Content\UI Textures\exitBuildButton.xnb
+Content\UI Textures\nextTurnButton.xnb
+Content\Minimap Textures\minimapBlip.xnb
+Content\UI Textures\buildingButton.xnb
+Content\UI Textures\buildingButtonSelected.xnb
+Content\Tile Textures\healthRectangle.xnb
+Content\Building Textures\advancedTurret.xnb
+Content\Building Textures\zapperBuilding.xnb
+Content\Building Textures\basicMine.xnb
+Content\Building Textures\factoryBuilding.xnb
+Content\Building Textures\basicTurret.xnb
+Content\Keyframe Effects\Laser Spark\explosion0001.xnb
+Content\Keyframe Effects\Laser Spark\explosion0002.xnb
+Content\Keyframe Effects\Laser Spark\explosion0003.xnb
+Content\Keyframe Effects\Laser Spark\explosion0004.xnb
+Content\Keyframe Effects\Laser Spark\explosion0005.xnb
+Content\Keyframe Effects\Laser Spark\explosion0006.xnb
+Content\Keyframe Effects\Laser Spark\explosion0007.xnb
+Content\Keyframe Effects\Laser Spark\explosion0008.xnb
+Content\Keyframe Effects\Laser Spark\explosion0009.xnb
+Content\Keyframe Effects\Laser Spark\explosion0010.xnb
+Content\Keyframe Effects\Laser Spark\explosion0011.xnb
+Content\Keyframe Effects\Laser Spark\explosion0012.xnb
+Content\Keyframe Effects\Laser Spark\explosion0013.xnb
+Content\Keyframe Effects\Laser Spark\explosion0014.xnb
+Content\Keyframe Effects\Laser Spark\explosion0015.xnb
+Content\Keyframe Effects\Laser Spark\explosion0016.xnb
+Content\Keyframe Effects\Laser Spark\explosion0017.xnb
+Content\Keyframe Effects\Laser Spark\explosion0018.xnb
+Content\Keyframe Effects\Laser Spark\explosion0019.xnb
+Content\Keyframe Effects\Laser Spark\explosion0020.xnb
+Content\Keyframe Effects\Laser Spark\explosion0021.xnb
+Content\Keyframe Effects\Building Explosion\explosion0001.xnb
+Content\Keyframe Effects\Building Explosion\explosion0002.xnb
+Content\Keyframe Effects\Building Explosion\explosion0003.xnb
+Content\Keyframe Effects\Building Explosion\explosion0004.xnb
+Content\Keyframe Effects\Building Explosion\explosion0005.xnb
+Content\Keyframe Effects\Building Explosion\explosion0006.xnb
+Content\Keyframe Effects\Building Explosion\explosion0007.xnb
+Content\Keyframe Effects\Building Explosion\explosion0008.xnb
+Content\Keyframe Effects\Building Explosion\explosion0009.xnb
+Content\Keyframe Effects\Building Explosion\explosion0010.xnb
+Content\Keyframe Effects\Building Explosion\explosion0011.xnb
+Content\Keyframe Effects\Building Explosion\explosion0012.xnb
+Content\Keyframe Effects\Building Explosion\explosion0013.xnb
+Content\Keyframe Effects\Building Explosion\explosion0014.xnb
+Content\Keyframe Effects\Building Explosion\explosion0015.xnb
+Content\Keyframe Effects\Building Explosion\explosion0016.xnb
+Content\Keyframe Effects\Building Explosion\explosion0017.xnb
+Content\Keyframe Effects\Building Explosion\explosion0018.xnb
+Content\Keyframe Effects\Building Explosion\explosion0019.xnb
+Content\Keyframe Effects\Building Explosion\explosion0020.xnb
+Content\Keyframe Effects\Building Explosion\explosion0021.xnb
+Content\Keyframe Effects\Building Explosion\explosion0022.xnb
+Content\Keyframe Effects\Building Explosion\explosion0023.xnb
+Content\Keyframe Effects\Building Explosion\explosion0024.xnb
+Content\Keyframe Effects\Building Explosion\explosion0025.xnb
+Content\Keyframe Effects\Building Explosion\explosion0026.xnb
+Content\Keyframe Effects\Building Explosion\explosion0027.xnb
+Content\Keyframe Effects\Building Explosion\explosion0028.xnb
+Content\Keyframe Effects\Building Explosion\explosion0029.xnb
+Content\Keyframe Effects\Building Explosion\explosion0030.xnb
+Content\Keyframe Effects\Building Explosion\explosion0031.xnb
+Content\Keyframe Effects\Building Explosion\explosion0032.xnb
+Content\Keyframe Effects\Building Explosion\explosion0033.xnb
+Content\Keyframe Effects\Building Explosion\explosion0034.xnb
+Content\Keyframe Effects\Building Explosion\explosion0035.xnb
+Content\Keyframe Effects\Building Explosion\explosion0036.xnb
+Content\Keyframe Effects\Building Explosion\explosion0037.xnb
+Content\Keyframe Effects\Building Explosion\explosion0038.xnb
+Content\Keyframe Effects\Building Explosion\explosion0039.xnb
+Content\Keyframe Effects\Building Explosion\explosion0040.xnb
+Content\Keyframe Effects\Building Explosion\explosion0041.xnb
+Content\Keyframe Effects\Building Explosion\explosion0042.xnb
+Content\Keyframe Effects\Building Explosion\explosion0043.xnb
+Content\Keyframe Effects\Building Explosion\explosion0044.xnb
+Content\Keyframe Effects\Building Explosion\explosion0045.xnb
+Content\Keyframe Effects\Building Explosion\explosion0046.xnb
+Content\Keyframe Effects\Building Explosion\explosion0047.xnb
+Content\Keyframe Effects\Building Explosion\explosion0048.xnb
+Content\Keyframe Effects\Building Explosion\explosion0049.xnb
+Content\Keyframe Effects\Building Explosion\explosion0050.xnb
+Content\Keyframe Effects\Building Explosion\explosion0051.xnb
+Content\Keyframe Effects\Building Explosion\explosion0052.xnb
+Content\Keyframe Effects\Building Explosion\explosion0053.xnb
+Content\Keyframe Effects\Building Explosion\explosion0054.xnb
+Content\Keyframe Effects\Building Explosion\explosion0055.xnb
+Content\Keyframe Effects\Building Explosion\explosion0056.xnb
+Content\Keyframe Effects\Building Explosion\explosion0057.xnb
+Content\Keyframe Effects\Building Explosion\explosion0058.xnb
+Content\Keyframe Effects\Building Explosion\explosion0059.xnb
+Content\Keyframe Effects\Building Explosion\explosion0060.xnb
+Content\Keyframe Effects\Building Explosion\explosion0061.xnb
+Content\Keyframe Effects\Building Explosion\explosion0062.xnb
+Content\Keyframe Effects\Building Explosion\explosion0063.xnb
+Content\Keyframe Effects\Building Explosion\explosion0064.xnb
+Content\Keyframe Effects\Building Explosion\explosion0065.xnb
+Content\Keyframe Effects\Building Explosion\explosion0066.xnb
+Content\Keyframe Effects\Building Explosion\explosion0067.xnb
+Content\Keyframe Effects\Building Explosion\explosion0068.xnb
+Content\Keyframe Effects\Building Explosion\explosion0069.xnb
+Content\Keyframe Effects\Building Explosion\explosion0070.xnb
+Content\Keyframe Effects\Building Explosion\explosion0071.xnb
+Content\Keyframe Effects\Building Explosion\explosion0072.xnb
+Content\Keyframe Effects\Building Explosion\explosion0073.xnb
+Content\Keyframe Effects\Building Explosion\explosion0074.xnb
+Content\Keyframe Effects\Building Explosion\explosion0075.xnb
+Content\Keyframe Effects\Building Explosion\explosion0076.xnb
+Content\Keyframe Effects\Building Explosion\explosion0077.xnb
+Content\Keyframe Effects\Building Explosion\explosion0078.xnb
+Content\Keyframe Effects\Building Explosion\explosion0079.xnb
+Content\Keyframe Effects\Building Explosion\explosion0080.xnb
+Content\Keyframe Effects\Building Explosion\explosion0081.xnb
+Content\Keyframe Effects\Building Explosion\explosion0082.xnb
+Content\Keyframe Effects\Building Explosion\explosion0083.xnb
+Content\Keyframe Effects\Building Explosion\explosion0084.xnb
+Content\Keyframe Effects\Building Explosion\explosion0085.xnb
+Content\Keyframe Effects\Building Explosion\explosion0086.xnb
+Content\Keyframe Effects\Building Explosion\explosion0087.xnb
+Content\Keyframe Effects\Building Explosion\explosion0088.xnb
+Content\Keyframe Effects\Building Explosion\explosion0089.xnb
+Content\UI Textures\pauseButton.xnb
+Content\UI Textures\pausedOverlay.xnb
+Content\UI Textures\exitButton.xnb
+Content\UI Textures\loadButton.xnb
+Content\UI Textures\saveButton.xnb
+Content\UI Textures\resumeButton.xnb
+Content\Minimap Textures\minimapBuilding.xnb
+Content\Enemy Textures\bossEnemy.xnb
+Content\Enemy Textures\enemyShip.xnb
+Content\Enemy Textures\roundEnemy.xnb
+Content\debugFont.xnb
+Content\displayFont.xnb
+Content\buildingButtonFont.xnb
+Content\General Sounds\Laser\laserShot0.xnb
+Content\General Sounds\Laser\laserShot1.xnb
+Content\General Sounds\thrusterSound.xnb
+Content\General Sounds\Enemy\enemyExplosion.xnb
+Content\Building Textures\blackHole.xnb
+Content\UI Textures\repairButton.xnb
+Content\General Textures\repairCursor.xnb
+Content\General Textures\missileProjectile.xnb

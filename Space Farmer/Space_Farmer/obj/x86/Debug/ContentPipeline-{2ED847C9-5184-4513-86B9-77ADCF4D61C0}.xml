@@ -1,0 +1,1442 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>General Textures\galaxyBackground.png</Source>
+      <Name>General Textures\galaxyBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Textures\galaxyBackground.xnb</Output>
+      <Time>2017-04-21T00:22:20.467417-04:00</Time>
+    </Item>
+    <Item>
+      <Source>General Textures\asteroidTexture.png</Source>
+      <Name>General Textures\asteroidTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Textures\asteroidTexture.xnb</Output>
+      <Time>2017-04-22T11:49:06.1077205-04:00</Time>
+    </Item>
+    <Item>
+      <Source>General Textures\galaxyStars.png</Source>
+      <Name>General Textures\galaxyStars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Textures\galaxyStars.xnb</Output>
+      <Time>2017-04-22T11:32:53.2039185-04:00</Time>
+    </Item>
+    <Item>
+      <Source>General Textures\laserBeam.png</Source>
+      <Name>General Textures\laserBeam</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Textures\laserBeam.xnb</Output>
+      <Time>2017-05-07T12:23:41.5315195-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\playerShip1.png</Source>
+      <Name>Player\playerShip1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Player\playerShip1.xnb</Output>
+      <Time>2017-04-23T14:41:11.5236191-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\playerShip2.png</Source>
+      <Name>Player\playerShip2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Player\playerShip2.xnb</Output>
+      <Time>2017-04-23T14:41:11.5276226-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\playerShip3.png</Source>
+      <Name>Player\playerShip3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Player\playerShip3.xnb</Output>
+      <Time>2017-04-23T14:41:11.5301253-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\playerShip0.png</Source>
+      <Name>Player\playerShip0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Player\playerShip0.xnb</Output>
+      <Time>2017-04-23T14:41:18.4441952-04:00</Time>
+    </Item>
+    <Item>
+      <Source>General Textures\galaxyDebris.png</Source>
+      <Name>General Textures\galaxyDebris</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Textures\galaxyDebris.xnb</Output>
+      <Time>2017-04-23T15:36:48.9405393-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Textures\goldCoin.png</Source>
+      <Name>UI Textures\goldCoin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\goldCoin.xnb</Output>
+      <Time>2017-04-26T22:34:51.595953-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Building Textures\advancedMine.png</Source>
+      <Name>Building Textures\advancedMine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Building Textures\advancedMine.xnb</Output>
+      <Time>2017-04-27T17:03:09.4252777-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tile Textures\gridSelectionOverlay.png</Source>
+      <Name>Tile Textures\gridSelectionOverlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Tile Textures\gridSelectionOverlay.xnb</Output>
+      <Time>2017-04-27T17:28:01.6753362-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Textures\buildButton.png</Source>
+      <Name>UI Textures\buildButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\buildButton.xnb</Output>
+      <Time>2017-05-14T10:31:27.9801537-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Textures\exitBuildButton.png</Source>
+      <Name>UI Textures\exitBuildButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\exitBuildButton.xnb</Output>
+      <Time>2017-05-14T10:31:17.7990539-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Textures\nextTurnButton.png</Source>
+      <Name>UI Textures\nextTurnButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\nextTurnButton.xnb</Output>
+      <Time>2017-05-14T10:30:53.9970682-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Minimap Textures\minimapBlip.png</Source>
+      <Name>Minimap Textures\minimapBlip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Minimap Textures\minimapBlip.xnb</Output>
+      <Time>2017-04-29T10:27:26.6149945-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Textures\buildingButton.png</Source>
+      <Name>UI Textures\buildingButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\buildingButton.xnb</Output>
+      <Time>2017-04-29T12:10:08.2896356-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Textures\buildingButtonSelected.png</Source>
+      <Name>UI Textures\buildingButtonSelected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\buildingButtonSelected.xnb</Output>
+      <Time>2017-04-29T12:11:11.7906652-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tile Textures\healthRectangle.png</Source>
+      <Name>Tile Textures\healthRectangle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Tile Textures\healthRectangle.xnb</Output>
+      <Time>2017-05-02T21:23:34.4177838-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Building Textures\advancedTurret.png</Source>
+      <Name>Building Textures\advancedTurret</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Building Textures\advancedTurret.xnb</Output>
+      <Time>2017-05-06T16:58:21.8140349-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Building Textures\zapperBuilding.png</Source>
+      <Name>Building Textures\zapperBuilding</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Building Textures\zapperBuilding.xnb</Output>
+      <Time>2017-05-07T17:26:01.307216-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Building Textures\basicMine.png</Source>
+      <Name>Building Textures\basicMine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Building Textures\basicMine.xnb</Output>
+      <Time>2017-05-07T17:30:58.7683707-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Building Textures\factoryBuilding.png</Source>
+      <Name>Building Textures\factoryBuilding</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Building Textures\factoryBuilding.xnb</Output>
+      <Time>2017-05-07T17:37:17.0096936-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Building Textures\basicTurret.png</Source>
+      <Name>Building Textures\basicTurret</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Building Textures\basicTurret.xnb</Output>
+      <Time>2017-05-07T17:39:17.1848452-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Laser Spark\explosion0001.png</Source>
+      <Name>Keyframe Effects\Laser Spark\explosion0001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0001.xnb</Output>
+      <Time>2017-05-08T19:02:47.8570042-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Laser Spark\explosion0002.png</Source>
+      <Name>Keyframe Effects\Laser Spark\explosion0002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0002.xnb</Output>
+      <Time>2017-05-08T19:02:47.8585059-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Laser Spark\explosion0003.png</Source>
+      <Name>Keyframe Effects\Laser Spark\explosion0003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0003.xnb</Output>
+      <Time>2017-05-08T19:02:47.8605075-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Laser Spark\explosion0004.png</Source>
+      <Name>Keyframe Effects\Laser Spark\explosion0004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0004.xnb</Output>
+      <Time>2017-05-08T19:02:47.8620087-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Laser Spark\explosion0005.png</Source>
+      <Name>Keyframe Effects\Laser Spark\explosion0005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0005.xnb</Output>
+      <Time>2017-05-08T19:02:47.8635107-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Laser Spark\explosion0006.png</Source>
+      <Name>Keyframe Effects\Laser Spark\explosion0006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0006.xnb</Output>
+      <Time>2017-05-08T19:02:47.8650121-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Laser Spark\explosion0007.png</Source>
+      <Name>Keyframe Effects\Laser Spark\explosion0007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0007.xnb</Output>
+      <Time>2017-05-08T19:02:47.8665135-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Laser Spark\explosion0008.png</Source>
+      <Name>Keyframe Effects\Laser Spark\explosion0008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0008.xnb</Output>
+      <Time>2017-05-08T19:02:47.8680147-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Laser Spark\explosion0009.png</Source>
+      <Name>Keyframe Effects\Laser Spark\explosion0009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0009.xnb</Output>
+      <Time>2017-05-08T19:02:47.8700169-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Laser Spark\explosion0010.png</Source>
+      <Name>Keyframe Effects\Laser Spark\explosion0010</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0010.xnb</Output>
+      <Time>2017-05-08T19:02:47.8720186-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Laser Spark\explosion0011.png</Source>
+      <Name>Keyframe Effects\Laser Spark\explosion0011</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0011.xnb</Output>
+      <Time>2017-05-08T19:02:47.8740202-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Laser Spark\explosion0012.png</Source>
+      <Name>Keyframe Effects\Laser Spark\explosion0012</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0012.xnb</Output>
+      <Time>2017-05-08T19:02:47.8760224-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Laser Spark\explosion0013.png</Source>
+      <Name>Keyframe Effects\Laser Spark\explosion0013</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0013.xnb</Output>
+      <Time>2017-05-08T19:02:47.8780243-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Laser Spark\explosion0014.png</Source>
+      <Name>Keyframe Effects\Laser Spark\explosion0014</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0014.xnb</Output>
+      <Time>2017-05-08T19:02:47.8795258-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Laser Spark\explosion0015.png</Source>
+      <Name>Keyframe Effects\Laser Spark\explosion0015</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0015.xnb</Output>
+      <Time>2017-05-08T19:02:47.8815279-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Laser Spark\explosion0016.png</Source>
+      <Name>Keyframe Effects\Laser Spark\explosion0016</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0016.xnb</Output>
+      <Time>2017-05-08T19:02:47.8835299-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Laser Spark\explosion0017.png</Source>
+      <Name>Keyframe Effects\Laser Spark\explosion0017</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0017.xnb</Output>
+      <Time>2017-05-08T19:02:47.8855318-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Laser Spark\explosion0018.png</Source>
+      <Name>Keyframe Effects\Laser Spark\explosion0018</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0018.xnb</Output>
+      <Time>2017-05-08T19:02:47.8875334-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Laser Spark\explosion0019.png</Source>
+      <Name>Keyframe Effects\Laser Spark\explosion0019</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0019.xnb</Output>
+      <Time>2017-05-08T19:02:47.8890349-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Laser Spark\explosion0020.png</Source>
+      <Name>Keyframe Effects\Laser Spark\explosion0020</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0020.xnb</Output>
+      <Time>2017-05-08T19:02:47.8910373-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Laser Spark\explosion0021.png</Source>
+      <Name>Keyframe Effects\Laser Spark\explosion0021</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Laser Spark\explosion0021.xnb</Output>
+      <Time>2017-05-08T19:02:47.8930387-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0001.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0001.xnb</Output>
+      <Time>2017-05-08T19:54:34.4395428-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0002.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0002.xnb</Output>
+      <Time>2017-05-08T19:54:34.4415444-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0003.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0003.xnb</Output>
+      <Time>2017-05-08T19:54:34.4435461-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0004.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0004.xnb</Output>
+      <Time>2017-05-08T19:54:34.4455478-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0005.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0005.xnb</Output>
+      <Time>2017-05-08T19:54:34.4475497-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0006.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0006.xnb</Output>
+      <Time>2017-05-08T19:54:34.4500521-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0007.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0007.xnb</Output>
+      <Time>2017-05-08T19:54:34.4525545-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0008.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0008.xnb</Output>
+      <Time>2017-05-08T19:54:34.4550569-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0009.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0009.xnb</Output>
+      <Time>2017-05-08T19:54:34.4570588-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0010.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0010</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0010.xnb</Output>
+      <Time>2017-05-08T19:54:34.4590615-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0011.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0011</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0011.xnb</Output>
+      <Time>2017-05-08T19:54:34.4665682-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0012.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0012</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0012.xnb</Output>
+      <Time>2017-05-08T19:54:34.4690706-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0013.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0013</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0013.xnb</Output>
+      <Time>2017-05-08T19:54:34.4715735-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0014.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0014</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0014.xnb</Output>
+      <Time>2017-05-08T19:54:34.4740749-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0015.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0015</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0015.xnb</Output>
+      <Time>2017-05-08T19:54:34.476077-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0016.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0016</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0016.xnb</Output>
+      <Time>2017-05-08T19:54:34.4785794-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0017.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0017</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0017.xnb</Output>
+      <Time>2017-05-08T19:54:34.4810821-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0018.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0018</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0018.xnb</Output>
+      <Time>2017-05-08T19:54:34.4835845-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0019.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0019</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0019.xnb</Output>
+      <Time>2017-05-08T19:54:34.4855864-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0020.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0020</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0020.xnb</Output>
+      <Time>2017-05-08T19:54:34.4885893-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0021.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0021</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0021.xnb</Output>
+      <Time>2017-05-08T19:54:34.4905912-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0022.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0022</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0022.xnb</Output>
+      <Time>2017-05-08T19:54:34.4935941-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0023.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0023</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0023.xnb</Output>
+      <Time>2017-05-08T19:54:34.4960967-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0024.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0024</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0024.xnb</Output>
+      <Time>2017-05-08T19:54:34.4985994-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0025.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0025</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0025.xnb</Output>
+      <Time>2017-05-08T19:54:34.5016015-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0026.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0026</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0026.xnb</Output>
+      <Time>2017-05-08T19:54:34.5041044-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0027.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0027</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0027.xnb</Output>
+      <Time>2017-05-08T19:54:34.5061066-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0028.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0028</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0028.xnb</Output>
+      <Time>2017-05-08T19:54:34.5086082-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0029.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0029</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0029.xnb</Output>
+      <Time>2017-05-08T19:54:34.5111106-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0030.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0030</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0030.xnb</Output>
+      <Time>2017-05-08T19:54:34.5136128-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0031.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0031</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0031.xnb</Output>
+      <Time>2017-05-08T19:54:34.5161157-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0032.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0032</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0032.xnb</Output>
+      <Time>2017-05-08T19:54:34.5191183-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0033.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0033</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0033.xnb</Output>
+      <Time>2017-05-08T19:54:34.5221214-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0034.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0034</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0034.xnb</Output>
+      <Time>2017-05-08T19:54:34.5246241-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0035.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0035</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0035.xnb</Output>
+      <Time>2017-05-08T19:54:34.5281272-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0036.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0036</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0036.xnb</Output>
+      <Time>2017-05-08T19:54:34.5306299-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0037.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0037</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0037.xnb</Output>
+      <Time>2017-05-08T19:54:34.533132-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0038.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0038</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0038.xnb</Output>
+      <Time>2017-05-08T19:54:34.5356346-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0039.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0039</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0039.xnb</Output>
+      <Time>2017-05-08T19:54:34.5381363-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0040.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0040</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0040.xnb</Output>
+      <Time>2017-05-08T19:54:34.5401385-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0041.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0041</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0041.xnb</Output>
+      <Time>2017-05-08T19:54:34.5431416-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0042.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0042</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0042.xnb</Output>
+      <Time>2017-05-08T19:54:34.5451433-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0043.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0043</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0043.xnb</Output>
+      <Time>2017-05-08T19:54:34.5476457-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0044.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0044</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0044.xnb</Output>
+      <Time>2017-05-08T19:54:34.5501481-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0045.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0045</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0045.xnb</Output>
+      <Time>2017-05-08T19:54:34.55215-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0046.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0046</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0046.xnb</Output>
+      <Time>2017-05-08T19:54:34.5546524-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0047.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0047</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0047.xnb</Output>
+      <Time>2017-05-08T19:54:34.557656-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0048.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0048</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0048.xnb</Output>
+      <Time>2017-05-08T19:54:34.5606586-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0049.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0049</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0049.xnb</Output>
+      <Time>2017-05-08T19:54:34.563161-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0050.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0050</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0050.xnb</Output>
+      <Time>2017-05-08T19:54:34.5661634-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0051.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0051</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0051.xnb</Output>
+      <Time>2017-05-08T19:54:34.5681653-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0052.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0052</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0052.xnb</Output>
+      <Time>2017-05-08T19:54:34.5711682-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0053.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0053</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0053.xnb</Output>
+      <Time>2017-05-08T19:54:34.5731701-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0054.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0054</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0054.xnb</Output>
+      <Time>2017-05-08T19:54:34.576173-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0055.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0055</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0055.xnb</Output>
+      <Time>2017-05-08T19:54:34.5781749-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0056.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0056</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0056.xnb</Output>
+      <Time>2017-05-08T19:54:34.5806773-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0057.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0057</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0057.xnb</Output>
+      <Time>2017-05-08T19:54:34.5831797-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0058.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0058</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0058.xnb</Output>
+      <Time>2017-05-08T19:54:34.5856826-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0059.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0059</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0059.xnb</Output>
+      <Time>2017-05-08T19:54:34.5876838-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0060.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0060</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0060.xnb</Output>
+      <Time>2017-05-08T19:54:34.5901875-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0061.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0061</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0061.xnb</Output>
+      <Time>2017-05-08T19:54:34.5926888-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0062.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0062</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0062.xnb</Output>
+      <Time>2017-05-08T19:54:34.5951918-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0063.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0063</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0063.xnb</Output>
+      <Time>2017-05-08T19:54:34.5976934-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0064.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0064</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0064.xnb</Output>
+      <Time>2017-05-08T19:54:34.600196-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0065.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0065</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0065.xnb</Output>
+      <Time>2017-05-08T19:54:34.6026987-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0066.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0066</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0066.xnb</Output>
+      <Time>2017-05-08T19:54:34.6052006-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0067.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0067</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0067.xnb</Output>
+      <Time>2017-05-08T19:54:34.6077035-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0068.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0068</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0068.xnb</Output>
+      <Time>2017-05-08T19:54:34.6102059-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0069.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0069</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0069.xnb</Output>
+      <Time>2017-05-08T19:54:34.6127088-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0070.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0070</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0070.xnb</Output>
+      <Time>2017-05-08T19:54:34.6152107-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0071.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0071</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0071.xnb</Output>
+      <Time>2017-05-08T19:54:34.6172124-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0072.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0072</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0072.xnb</Output>
+      <Time>2017-05-08T19:54:34.6197153-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0073.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0073</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0073.xnb</Output>
+      <Time>2017-05-08T19:54:34.6217172-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0074.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0074</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0074.xnb</Output>
+      <Time>2017-05-08T19:54:34.6242193-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0075.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0075</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0075.xnb</Output>
+      <Time>2017-05-08T19:54:34.6267215-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0076.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0076</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0076.xnb</Output>
+      <Time>2017-05-08T19:54:34.6292241-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0077.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0077</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0077.xnb</Output>
+      <Time>2017-05-08T19:54:34.6312258-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0078.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0078</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0078.xnb</Output>
+      <Time>2017-05-08T19:54:34.6342289-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0079.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0079</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0079.xnb</Output>
+      <Time>2017-05-08T19:54:34.6367311-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0080.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0080</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0080.xnb</Output>
+      <Time>2017-05-08T19:54:34.6387332-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0081.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0081</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0081.xnb</Output>
+      <Time>2017-05-08T19:54:34.6412354-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0082.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0082</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0082.xnb</Output>
+      <Time>2017-05-08T19:54:34.6437378-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0083.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0083</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0083.xnb</Output>
+      <Time>2017-05-08T19:54:34.6462402-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0084.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0084</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0084.xnb</Output>
+      <Time>2017-05-08T19:54:34.6482421-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0085.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0085</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0085.xnb</Output>
+      <Time>2017-05-08T19:54:34.6507448-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0086.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0086</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0086.xnb</Output>
+      <Time>2017-05-08T19:54:34.6532472-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0087.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0087</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0087.xnb</Output>
+      <Time>2017-05-08T19:54:34.6552493-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0088.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0088</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0088.xnb</Output>
+      <Time>2017-05-08T19:54:34.6577512-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Keyframe Effects\Building Explosion\explosion0089.png</Source>
+      <Name>Keyframe Effects\Building Explosion\explosion0089</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Keyframe Effects\Building Explosion\explosion0089.xnb</Output>
+      <Time>2017-05-08T19:54:34.6607546-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Textures\pauseButton.png</Source>
+      <Name>UI Textures\pauseButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\pauseButton.xnb</Output>
+      <Time>2017-05-14T10:30:40.8137568-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Textures\pausedOverlay.png</Source>
+      <Name>UI Textures\pausedOverlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\pausedOverlay.xnb</Output>
+      <Time>2017-05-13T10:55:22.05396-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Textures\exitButton.png</Source>
+      <Name>UI Textures\exitButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\exitButton.xnb</Output>
+      <Time>2017-05-13T11:06:42.2068996-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Textures\loadButton.png</Source>
+      <Name>UI Textures\loadButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\loadButton.xnb</Output>
+      <Time>2017-05-14T10:31:05.7994248-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Textures\saveButton.png</Source>
+      <Name>UI Textures\saveButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\saveButton.xnb</Output>
+      <Time>2017-05-14T10:31:52.8726717-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Textures\resumeButton.png</Source>
+      <Name>UI Textures\resumeButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\resumeButton.xnb</Output>
+      <Time>2017-05-14T10:30:30.4845182-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Minimap Textures\minimapBuilding.png</Source>
+      <Name>Minimap Textures\minimapBuilding</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Minimap Textures\minimapBuilding.xnb</Output>
+      <Time>2017-05-13T13:16:43.4891994-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy Textures\bossEnemy.png</Source>
+      <Name>Enemy Textures\bossEnemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Enemy Textures\bossEnemy.xnb</Output>
+      <Time>2017-05-13T20:57:30.3149743-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy Textures\enemyShip.png</Source>
+      <Name>Enemy Textures\enemyShip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Enemy Textures\enemyShip.xnb</Output>
+      <Time>2017-05-13T20:57:34.9373197-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy Textures\roundEnemy.png</Source>
+      <Name>Enemy Textures\roundEnemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Enemy Textures\roundEnemy.xnb</Output>
+      <Time>2017-05-13T20:57:34.9393218-04:00</Time>
+    </Item>
+    <Item>
+      <Source>debugFont.spritefont</Source>
+      <Name>debugFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\debugFont.xnb</Output>
+      <Time>2017-04-22T11:04:29.4939535-04:00</Time>
+    </Item>
+    <Item>
+      <Source>displayFont.spritefont</Source>
+      <Name>displayFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\displayFont.xnb</Output>
+      <Time>2017-04-26T22:36:28.592657-04:00</Time>
+    </Item>
+    <Item>
+      <Source>buildingButtonFont.spritefont</Source>
+      <Name>buildingButtonFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\buildingButtonFont.xnb</Output>
+      <Time>2017-04-29T12:21:40.7149849-04:00</Time>
+    </Item>
+    <Item>
+      <Source>General Sounds\Laser\laserShot0.wav</Source>
+      <Name>General Sounds\Laser\laserShot0</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Sounds\Laser\laserShot0.xnb</Output>
+      <Time>2017-05-03T18:12:50.6684414-04:00</Time>
+    </Item>
+    <Item>
+      <Source>General Sounds\Laser\laserShot1.wav</Source>
+      <Name>General Sounds\Laser\laserShot1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Sounds\Laser\laserShot1.xnb</Output>
+      <Time>2017-05-03T18:13:09.7070147-04:00</Time>
+    </Item>
+    <Item>
+      <Source>General Sounds\thrusterSound.wav</Source>
+      <Name>General Sounds\thrusterSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Sounds\thrusterSound.xnb</Output>
+      <Time>2017-04-22T18:10:07.6683745-04:00</Time>
+    </Item>
+    <Item>
+      <Source>General Sounds\Enemy\enemyExplosion.wav</Source>
+      <Name>General Sounds\Enemy\enemyExplosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Sounds\Enemy\enemyExplosion.xnb</Output>
+      <Time>2017-05-07T12:25:37.956898-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Building Textures\blackHole.png</Source>
+      <Name>Building Textures\blackHole</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\Building Textures\blackHole.xnb</Output>
+      <Time>2017-05-14T00:09:42.7413913-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UI Textures\repairButton.png</Source>
+      <Name>UI Textures\repairButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\UI Textures\repairButton.xnb</Output>
+      <Time>2017-05-14T10:29:06.9693469-04:00</Time>
+    </Item>
+    <Item>
+      <Source>General Textures\repairCursor.png</Source>
+      <Name>General Textures\repairCursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Textures\repairCursor.xnb</Output>
+      <Time>2017-05-14T10:49:23.3341824-04:00</Time>
+    </Item>
+    <Item>
+      <Source>General Textures\missileProjectile.png</Source>
+      <Name>General Textures\missileProjectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\General Textures\missileProjectile.xnb</Output>
+      <Time>2017-05-15T20:14:24.8939013-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{2ED847C9-5184-4513-86B9-77ADCF4D61C0}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_FarmerContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\rgoul\Documents\Visual Studio 2015\Projects\Space Farmer\Space Farmer\Space Farmer\Space Farmer\Space_Farmer\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-05-13T23:18:06.2633123-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

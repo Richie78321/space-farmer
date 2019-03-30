@@ -1,0 +1,14 @@
+Tile,4,5,Zapper,38
+Tile,4,6,Advanced Mine,84
+Tile,4,7,Advanced Mine,81
+Tile,5,5,Advanced Mine,100
+Tile,5,6,Basic Mine,25
+Tile,5,7,Basic Mine,25
+Tile,6,4,Advanced Mine,92
+Tile,6,5,Basic Mine,25
+Tile,6,6,Advanced Mine,100
+Tile,6,7,Basic Mine,25
+Tile,7,5,Basic Turret,88
+Tile,7,6,Advanced Mine,84
+Turn,27
+Gold,2407
